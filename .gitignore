@@ -1,0 +1,10 @@
+# 不把临时构建产物、依赖、本地配置提交到仓库
+.DS_Store
+Thumbs.db
+*.log
+*.tmp
+.env
+.env.*
+.idea/
+.vscode/
+node_modules/
